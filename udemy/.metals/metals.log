@@ -1,0 +1,92 @@
+2026.06.08 16:45:13 INFO  Started: Metals version 1.6.7 in folders '/Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy' for client Visual Studio Code 1.122.1.
+2026.06.08 16:45:13 INFO  Memory monitor started
+2026.06.08 16:45:13 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.08 16:45:14 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:45:14 WARN  no build tool detected in workspace '/Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.06.08 16:45:15 WARN  Build server is not auto-connectable.
+2026.06.08 16:45:15 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java
+2026.06.08 16:45:15 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:45:15 WARN  Running javac-semanticdb failed for file:///Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Output:
+
+2026.06.08 16:45:15 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:45:18 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:45:21 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:45:23 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:45:25 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:45:25 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+Jun 08, 2026 4:45:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2026.06.08 16:45:25 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:45:26 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java
+2026.06.08 16:45:26 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:49:44 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:49:44 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:49:44 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:49:45 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:49:45 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:49:45 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java
+2026.06.08 16:49:45 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:49:45 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/append.java. Using fallback presentation compiler.
+2026.06.08 16:49:45 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java
+2026.06.08 16:49:45 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+Jun 08, 2026 4:49:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+2026.06.08 16:49:46 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:49:46 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:49:58 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:49:58 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java
+2026.06.08 16:49:58 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:50:11 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:50:11 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java
+2026.06.08 16:50:11 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:51:02 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java
+2026.06.08 16:51:02 WARN  Running javac-semanticdb failed for file:///Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Output:
+
+2026.06.08 16:51:02 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:03 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java
+2026.06.08 16:51:02 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:02 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:03 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:02 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:02 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:04 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:04 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:04 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:06 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:06 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:06 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:06 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:06 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:06 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:07 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:08 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:08 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:08 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:08 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:08 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:08 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:09 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java
+2026.06.08 16:51:09 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:11 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:51:11 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java
+2026.06.08 16:51:11 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:51:14 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:14 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java
+2026.06.08 16:51:14 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+Jun 08, 2026 4:51:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.06.08 16:51:30 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:51:30 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java
+Jun 08, 2026 4:51:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 126
+2026.06.08 16:51:30 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:51:31 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java
+2026.06.08 16:51:30 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/LinkedList.java. Using fallback presentation compiler.
+2026.06.08 16:51:33 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:33 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java
+2026.06.08 16:51:33 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+2026.06.08 16:51:33 WARN  no build target for: /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java
+2026.06.08 16:51:33 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
+Jun 08, 2026 4:52:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.06.08 16:52:18 INFO  no build target found for /Users/rifahtasniaatoshe/Documents/data-structures-algorithm---java/udemy/main.java. Using fallback presentation compiler.
